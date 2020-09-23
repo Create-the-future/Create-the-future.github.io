@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Python基础课堂</title>
+      <link href="2020/09/21/python-ji-chu-ke-tang/"/>
+      <url>2020/09/21/python-ji-chu-ke-tang/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Python简史"><a href="#Python简史" class="headerlink" title="Python简史"></a>Python简史</h1><p><a href="https://docs.python.org/zh-cn/3/tutorial/">Python 官方教程 (中文) </a></p><p><a href="https://docs.python.org/zh-cn/3/library/index.html#library-index">Python 标准库 (中文) </a></p><p><a href="https://www.python.org/">Python解释器官方下载</a></p><h1 id="Python编辑器"><a href="#Python编辑器" class="headerlink" title="Python编辑器"></a>Python编辑器</h1><ul><li><p>vscode</p><p><a href="https://code.visualstudio.com/Download">vscode官网下载</a></p><p><img src="https://github.com/Create-the-future/Pictures/blob/master/test/coe.jpg?raw=true" alt="code"></p><p>选择你要使用的版本，下载即可</p></li><li><p>Pycharm</p><p><a href="https://www.jetbrains.com/pycharm/download/#section=windows">Python编辑器官网下载</a></p><p><img src="https://github.com/Create-the-future/Pictures/blob/master/test/timg.jfif?raw=true"></p><p>选择你要使用的版本，下载即可</p><p><a href="https://pypi.tuna.tsinghua.edu.cn/simple">pip国内镜像源</a></p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1600666229606&di=b898b7338291681abab78c60994bb331&imgtype=0&src=http%3A%2F%2Fa4.att.hudong.com%2F22%2F59%2F19300001325156131228593878903.jpg" style="zoom:50%;" /><h1 id="Python视频教程"><a href="#Python视频教程" class="headerlink" title="Python视频教程"></a>Python视频教程</h1><p><a href="https://www.bilibili.com/video/BV1Ay4y1y7in?from=search&seid=6266550647629600385">Python视频教程</a></p><p><a href="https://www.bilibili.com/video/BV1QE411x76A?from=search&seid=6266550647629600385">B站700集</a></p><p><a href="http://pan.ijiaoxue.net:6800/f/934b3b3b20084dbcab0a/?dl=1">Python3程序开发指南</a></p><p><a href="https://paste.ubuntu.com/">线上工具</a></p><p><a href="https://www.runoob.com/python/python-tutorial.html">菜鸟教程 </a></p><h1 id="Python语法"><a href="#Python语法" class="headerlink" title="Python语法"></a>Python语法</h1><ol><li><p>列表推导式</p><p>案例：</p><pre class=" language-python"><code class="language-python">a <span class="token operator">=</span> <span class="token operator">&amp;</span><span class="token comment" spellcheck="true">#123;x for x in 'abracadabra' if x not in 'abc'&amp;#125;</span><span class="token operator">&amp;</span><span class="token comment" spellcheck="true">#123;'r', 'd'&amp;#125;</span></code></pre><p>pprint（）“美化输出机制”会添加换行符和缩进，以更清楚地展示数据结构:</p><p>a *= 2 表示 a = a * 2 还有 += ，-= ，/= </p><p><a href="https://www.liaoxuefeng.com/wiki/1016959663602400">廖雪峰官方网站的《Python教程》</a></p><p><a href="https://openpyxl.readthedocs.io/en/stable/#">Python处理表格官方文档</a></p><p>Python web框架</p><p><a href="https://webpy.org/">web.py</a>：一个小巧的Web框架；</p><p><a href="https://www.djangoproject.com/">Django</a>：全能型Web框架；</p></li></ol></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="2020/09/20/latex-bi-ji/"/>
       <url>2020/09/20/latex-bi-ji/</url>

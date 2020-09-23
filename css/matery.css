@@ -621,7 +621,7 @@ header .go-back i {
     font-weight: 400;
 }
 
-@-webkit-keyframes rainbow {
+/*@-webkit-keyframes rainbow {
 
     0%,
     100% {
@@ -771,7 +771,7 @@ header .go-back i {
     .index-card .card .card-content {
         padding: 10px 10px;
     }
-}
+} */
 
 /*中等屏幕下(平板类)的样式*/
 @media only screen and (min-width: 600px) and (max-width: 992px) {
